@@ -1,5 +1,5 @@
 <div align="center">
-  ![Discord bot logo](/resources/discord-bot-logo.png)
+  ![Discord bot logo](resources/discord-bot-logo.png)
 </div>
 
 # East London Tech Meetup Discord Bot
