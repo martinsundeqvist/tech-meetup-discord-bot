@@ -5,7 +5,7 @@
 # East London Tech Meetup Discord Bot
 
 ## Description
-This is a Discord bot for the East London Tech Meetup Discord server. It's purpose is to serve the users on the server, provide admin / moderation services and information on local tech / development events in the London area. 
+This is a Discord bot for the East London Tech Meetup Discord server. It's purpose is to serve the users on the server, provide admin / moderation services and information on local tech / development events in the London area.
 
 ## Features
 - Welcomes new users to server
