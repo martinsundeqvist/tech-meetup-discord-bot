@@ -1,4 +1,4 @@
-<img src="resources/discord-bot-logo.png">
+<img src="resources/discord-bot-logo.png" width=25% height=25%>
 
 # East London Tech Meetup Discord Bot
 
