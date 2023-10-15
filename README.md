@@ -16,5 +16,5 @@ This is a Discord bot for the East London Tech Meetup Discord server. It's purpo
 ## Contributing
 If you are interested in contributing please create an issue with improvement ideas / create a pull request.
 
-## Setup / Deployment
+## Setup / Deployment
 Currently, setup deployment is handled manually by the repository administrator.
