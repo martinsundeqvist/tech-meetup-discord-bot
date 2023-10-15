@@ -1,2 +1,8 @@
-# tech-meetup-discord-bot
-A bot for a London tech / dev meetup Discord server
+<div align="center">
+  ![Discord bot logo](./resources/discord-bot-logo.png)
+</div>
+
+# East London Tech Meetup Discord Bot
+
+## Description
+This is a Discord bot for the East London Tech Meetup Discord server. It handles such tasks as greeting new members.
